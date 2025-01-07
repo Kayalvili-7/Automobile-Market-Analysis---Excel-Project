@@ -1,6 +1,7 @@
 # Automobile Market Analysis Project
 This project analyzes data from the automobile market to provide business insights into vehicle performance, consumer preferences, and market trends. Key aspects of the project include:
-# Data Cleaning and Analysis: Using Excel and its data analysis tools to clean, process, and analyze car manufacturer and model data.
+# Data Cleaning and Analysis: 
+Using Excel and its data analysis tools to clean, process, and analyze car manufacturer and model data.
 # Key Insights:
 Identification of the top 10 cars with the highest miles per gallon based on displacement.
 Analysis of correlations, such as displacement vs. mileage and fuel tank capacity vs. mileage.
